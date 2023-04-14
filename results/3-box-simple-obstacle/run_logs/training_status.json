@@ -1,0 +1,407 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-499972.onnx",
+                "reward": -0.6867539688116975,
+                "creation_time": 1681337214.6545322,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-499972.pt"
+                ]
+            },
+            {
+                "steps": 999972,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-999972.onnx",
+                "reward": -0.6080907082015817,
+                "creation_time": 1681338408.22571,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-999972.pt"
+                ]
+            },
+            {
+                "steps": 1340722,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1340722.onnx",
+                "reward": -0.5705495511784273,
+                "creation_time": 1681339221.8891048,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1340722.pt"
+                ]
+            },
+            {
+                "steps": 1499937,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1499937.onnx",
+                "reward": -0.5648052005562931,
+                "creation_time": 1681339665.1097476,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1499937.pt"
+                ]
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1999995.onnx",
+                "reward": -0.5269699100227583,
+                "creation_time": 1681340865.3428423,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-1999995.pt"
+                ]
+            },
+            {
+                "steps": 2499989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-2499989.onnx",
+                "reward": -0.5174311308397187,
+                "creation_time": 1681342052.289288,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-2499989.pt"
+                ]
+            },
+            {
+                "steps": 2999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-2999995.onnx",
+                "reward": -0.5115570291071325,
+                "creation_time": 1681343227.9995775,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-2999995.pt"
+                ]
+            },
+            {
+                "steps": 3499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-3499995.onnx",
+                "reward": -0.5055007971823215,
+                "creation_time": 1681344403.7174077,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-3499995.pt"
+                ]
+            },
+            {
+                "steps": 3999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-3999995.onnx",
+                "reward": -0.4917131021618843,
+                "creation_time": 1681345580.9824626,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-3999995.pt"
+                ]
+            },
+            {
+                "steps": 4499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-4499995.onnx",
+                "reward": -0.48384750309662944,
+                "creation_time": 1681346756.9341042,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-4499995.pt"
+                ]
+            },
+            {
+                "steps": 4999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-4999995.onnx",
+                "reward": -0.4791664555668831,
+                "creation_time": 1681347929.4610002,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-4999995.pt"
+                ]
+            },
+            {
+                "steps": 5499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-5499995.onnx",
+                "reward": -0.4760460672633989,
+                "creation_time": 1681349111.2863917,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-5499995.pt"
+                ]
+            },
+            {
+                "steps": 5999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-5999995.onnx",
+                "reward": -0.49388857930898666,
+                "creation_time": 1681350281.4838154,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-5999995.pt"
+                ]
+            },
+            {
+                "steps": 6499989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-6499989.onnx",
+                "reward": -0.5252138731380304,
+                "creation_time": 1681351473.271701,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-6499989.pt"
+                ]
+            },
+            {
+                "steps": 6999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-6999995.onnx",
+                "reward": -0.5027744579128921,
+                "creation_time": 1681352651.9976919,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-6999995.pt"
+                ]
+            },
+            {
+                "steps": 7499989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-7499989.onnx",
+                "reward": -0.48929149061441424,
+                "creation_time": 1681353831.508332,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-7499989.pt"
+                ]
+            },
+            {
+                "steps": 7999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-7999995.onnx",
+                "reward": -0.4696621452608416,
+                "creation_time": 1681355000.5475245,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-7999995.pt"
+                ]
+            },
+            {
+                "steps": 8499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-8499995.onnx",
+                "reward": -0.4740682526638633,
+                "creation_time": 1681356172.1760948,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-8499995.pt"
+                ]
+            },
+            {
+                "steps": 8999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-8999995.onnx",
+                "reward": -0.4759910841073309,
+                "creation_time": 1681357341.8761857,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-8999995.pt"
+                ]
+            },
+            {
+                "steps": 9499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-9499995.onnx",
+                "reward": -0.47783806238855636,
+                "creation_time": 1681358522.0838447,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-9499995.pt"
+                ]
+            },
+            {
+                "steps": 9999937,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-9999937.onnx",
+                "reward": -0.47248007889304844,
+                "creation_time": 1681359696.8664973,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-9999937.pt"
+                ]
+            },
+            {
+                "steps": 10499989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-10499989.onnx",
+                "reward": -0.47127000615000725,
+                "creation_time": 1681360875.5730183,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-10499989.pt"
+                ]
+            },
+            {
+                "steps": 10999937,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-10999937.onnx",
+                "reward": -0.4687144797709253,
+                "creation_time": 1681362036.1691866,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-10999937.pt"
+                ]
+            },
+            {
+                "steps": 11499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-11499995.onnx",
+                "reward": -0.46928507710496586,
+                "creation_time": 1681363210.4842024,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-11499995.pt"
+                ]
+            },
+            {
+                "steps": 11999989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-11999989.onnx",
+                "reward": -0.468051894257466,
+                "creation_time": 1681364379.6209524,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-11999989.pt"
+                ]
+            },
+            {
+                "steps": 12499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-12499995.onnx",
+                "reward": -0.5019050063565373,
+                "creation_time": 1681365543.1971645,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-12499995.pt"
+                ]
+            },
+            {
+                "steps": 12999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-12999995.onnx",
+                "reward": -0.49342213405503166,
+                "creation_time": 1681366719.647969,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-12999995.pt"
+                ]
+            },
+            {
+                "steps": 13499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-13499995.onnx",
+                "reward": -0.49703749595209956,
+                "creation_time": 1681367911.06262,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-13499995.pt"
+                ]
+            },
+            {
+                "steps": 13999995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-13999995.onnx",
+                "reward": -0.5004023015499115,
+                "creation_time": 1681369088.630059,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-13999995.pt"
+                ]
+            },
+            {
+                "steps": 14499995,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-14499995.onnx",
+                "reward": -0.4862291080256303,
+                "creation_time": 1681370264.9613173,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-14499995.pt"
+                ]
+            },
+            {
+                "steps": 14999989,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-14999989.onnx",
+                "reward": -0.4912929456484945,
+                "creation_time": 1681371425.6749427,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-14999989.pt"
+                ]
+            },
+            {
+                "steps": 15499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-15499983.onnx",
+                "reward": -0.5679211256404718,
+                "creation_time": 1681372613.588007,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-15499983.pt"
+                ]
+            },
+            {
+                "steps": 15999977,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-15999977.onnx",
+                "reward": -0.5442432717730602,
+                "creation_time": 1681373803.2509367,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-15999977.pt"
+                ]
+            },
+            {
+                "steps": 16499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-16499983.onnx",
+                "reward": -0.5395515213410059,
+                "creation_time": 1681374979.5357962,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-16499983.pt"
+                ]
+            },
+            {
+                "steps": 16999977,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-16999977.onnx",
+                "reward": -0.5345565757968209,
+                "creation_time": 1681376162.577724,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-16999977.pt"
+                ]
+            },
+            {
+                "steps": 17499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-17499983.onnx",
+                "reward": -0.5307843296511753,
+                "creation_time": 1681377353.0502589,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-17499983.pt"
+                ]
+            },
+            {
+                "steps": 17999983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-17999983.onnx",
+                "reward": -0.5259019993245602,
+                "creation_time": 1681378537.1604795,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-17999983.pt"
+                ]
+            },
+            {
+                "steps": 18499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-18499983.onnx",
+                "reward": -0.5268089337782427,
+                "creation_time": 1681379722.186721,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-18499983.pt"
+                ]
+            },
+            {
+                "steps": 18999983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-18999983.onnx",
+                "reward": -0.5265736003455362,
+                "creation_time": 1681380891.446482,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-18999983.pt"
+                ]
+            },
+            {
+                "steps": 19499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-19499983.onnx",
+                "reward": -0.5228396518914787,
+                "creation_time": 1681382066.6737437,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-19499983.pt"
+                ]
+            },
+            {
+                "steps": 19999983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-19999983.onnx",
+                "reward": -0.5228669568896294,
+                "creation_time": 1681383251.6855032,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-19999983.pt"
+                ]
+            },
+            {
+                "steps": 20499983,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-20499983.onnx",
+                "reward": -0.5158949568867683,
+                "creation_time": 1681384445.9519982,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-20499983.pt"
+                ]
+            },
+            {
+                "steps": 20841425,
+                "file_path": "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-20841425.onnx",
+                "reward": -0.5264676542658555,
+                "creation_time": 1681385250.0106797,
+                "auxillary_file_paths": [
+                    "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-20841425.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20841425,
+            "file_path": "results/3-box-simple-obstacle/SpiderBrain.onnx",
+            "reward": -0.5264676542658555,
+            "creation_time": 1681385250.0106797,
+            "auxillary_file_paths": [
+                "results/3-box-simple-obstacle/SpiderBrain/SpiderBrain-20841425.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 42499992,
+                "file_path": "results/smallTilt1/SpiderBrain/SpiderBrain-42499992.onnx",
+                "reward": 2.491919670592655,
+                "creation_time": 1679742988.8810167,
+                "auxillary_file_paths": [
+                    "results/smallTilt1/SpiderBrain/SpiderBrain-42499992.pt"
+                ]
+            },
+            {
+                "steps": 42999992,
+                "file_path": "results/smallTilt1/SpiderBrain/SpiderBrain-42999992.onnx",
+                "reward": 2.418391982714335,
+                "creation_time": 1679744141.2888575,
+                "auxillary_file_paths": [
+                    "results/smallTilt1/SpiderBrain/SpiderBrain-42999992.pt"
+                ]
+            },
+            {
+                "steps": 43499987,
+                "file_path": "results/smallTilt1/SpiderBrain/SpiderBrain-43499987.onnx",
+                "reward": 2.525891165984304,
+                "creation_time": 1679745284.5931907,
+                "auxillary_file_paths": [
+                    "results/smallTilt1/SpiderBrain/SpiderBrain-43499987.pt"
+                ]
+            },
+            {
+                "steps": 43999970,
+                "file_path": "results/smallTilt1/SpiderBrain/SpiderBrain-43999970.onnx",
+                "reward": 2.492359936237335,
+                "creation_time": 1679746427.5190384,
+                "auxillary_file_paths": [
+                    "results/smallTilt1/SpiderBrain/SpiderBrain-43999970.pt"
+                ]
+            },
+            {
+                "steps": 44230849,
+                "file_path": "results/smallTilt1/SpiderBrain/SpiderBrain-44230849.onnx",
+                "reward": 2.5601096830584784,
+                "creation_time": 1679746960.7149553,
+                "auxillary_file_paths": [
+                    "results/smallTilt1/SpiderBrain/SpiderBrain-44230849.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44230849,
+            "file_path": "results/smallTilt1/SpiderBrain.onnx",
+            "reward": 2.5601096830584784,
+            "creation_time": 1679746960.7149553,
+            "auxillary_file_paths": [
+                "results/smallTilt1/SpiderBrain/SpiderBrain-44230849.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

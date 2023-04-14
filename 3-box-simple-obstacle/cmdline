@@ -1,0 +1,2 @@
+mlagents-learn --env 3-box-simple-obstacle/3-box-simple-obstacle.x86_64 --run-id 3-box-simple-obstacle --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
+

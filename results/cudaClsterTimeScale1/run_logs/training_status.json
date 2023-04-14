@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 48499975,
+                "file_path": "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-48499975.onnx",
+                "reward": 3.343971804777781,
+                "creation_time": 1679594569.6894083,
+                "auxillary_file_paths": [
+                    "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-48499975.pt"
+                ]
+            },
+            {
+                "steps": 48999977,
+                "file_path": "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-48999977.onnx",
+                "reward": 3.5754395127296448,
+                "creation_time": 1679595721.5198865,
+                "auxillary_file_paths": [
+                    "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-48999977.pt"
+                ]
+            },
+            {
+                "steps": 49499988,
+                "file_path": "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-49499988.onnx",
+                "reward": 3.462029182141827,
+                "creation_time": 1679596891.9852774,
+                "auxillary_file_paths": [
+                    "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-49499988.pt"
+                ]
+            },
+            {
+                "steps": 49999965,
+                "file_path": "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-49999965.onnx",
+                "reward": 3.5576178852249596,
+                "creation_time": 1679598051.2969408,
+                "auxillary_file_paths": [
+                    "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-49999965.pt"
+                ]
+            },
+            {
+                "steps": 50000029,
+                "file_path": "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-50000029.onnx",
+                "reward": 3.5576178852249596,
+                "creation_time": 1679598051.4188619,
+                "auxillary_file_paths": [
+                    "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-50000029.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50000029,
+            "file_path": "results/cudaClsterTimeScale1/SpiderBrain.onnx",
+            "reward": 3.5576178852249596,
+            "creation_time": 1679598051.4188619,
+            "auxillary_file_paths": [
+                "results/cudaClsterTimeScale1/SpiderBrain/SpiderBrain-50000029.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

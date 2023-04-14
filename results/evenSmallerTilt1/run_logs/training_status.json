@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 48499992,
+                "file_path": "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-48499992.onnx",
+                "reward": -0.007853772152553905,
+                "creation_time": 1679882702.3096123,
+                "auxillary_file_paths": [
+                    "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-48499992.pt"
+                ]
+            },
+            {
+                "steps": 48999989,
+                "file_path": "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-48999989.onnx",
+                "reward": -0.0006538842653119287,
+                "creation_time": 1679884102.2505045,
+                "auxillary_file_paths": [
+                    "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-48999989.pt"
+                ]
+            },
+            {
+                "steps": 49499999,
+                "file_path": "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-49499999.onnx",
+                "reward": -0.009176482260227204,
+                "creation_time": 1679885502.5068204,
+                "auxillary_file_paths": [
+                    "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-49499999.pt"
+                ]
+            },
+            {
+                "steps": 49999994,
+                "file_path": "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-49999994.onnx",
+                "reward": -0.00552208184987515,
+                "creation_time": 1679886883.3009968,
+                "auxillary_file_paths": [
+                    "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-49999994.pt"
+                ]
+            },
+            {
+                "steps": 50000002,
+                "file_path": "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-50000002.onnx",
+                "reward": -0.0057044753597842324,
+                "creation_time": 1679886883.42553,
+                "auxillary_file_paths": [
+                    "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-50000002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50000002,
+            "file_path": "results/evenSmallerTilt1/SpiderBrain.onnx",
+            "reward": -0.0057044753597842324,
+            "creation_time": 1679886883.42553,
+            "auxillary_file_paths": [
+                "results/evenSmallerTilt1/SpiderBrain/SpiderBrain-50000002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

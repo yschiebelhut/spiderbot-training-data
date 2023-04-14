@@ -1,0 +1,470 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 499985,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-499985.onnx",
+                "reward": -21.172607421875,
+                "creation_time": 1681391995.6934152,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-499985.pt"
+                ]
+            },
+            {
+                "steps": 556596,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-556596.onnx",
+                "reward": -18.272590001424152,
+                "creation_time": 1681392252.1352,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-556596.pt"
+                ]
+            },
+            {
+                "steps": 999951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-999951.onnx",
+                "reward": -13.37571907043457,
+                "creation_time": 1681398406.6213439,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-999951.pt"
+                ]
+            },
+            {
+                "steps": 1499951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-1499951.onnx",
+                "reward": -9.100281910101574,
+                "creation_time": 1681399592.7868066,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-1499951.pt"
+                ]
+            },
+            {
+                "steps": 1999951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-1999951.onnx",
+                "reward": -7.073409725637997,
+                "creation_time": 1681400784.7367816,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-1999951.pt"
+                ]
+            },
+            {
+                "steps": 2499951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-2499951.onnx",
+                "reward": -5.581162917613983,
+                "creation_time": 1681401948.5196033,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-2499951.pt"
+                ]
+            },
+            {
+                "steps": 2999951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-2999951.onnx",
+                "reward": -5.8995027645970834,
+                "creation_time": 1681403134.9341075,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-2999951.pt"
+                ]
+            },
+            {
+                "steps": 3499951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-3499951.onnx",
+                "reward": -4.053501314856112,
+                "creation_time": 1681404325.5325897,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-3499951.pt"
+                ]
+            },
+            {
+                "steps": 3999951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-3999951.onnx",
+                "reward": -4.039041977375746,
+                "creation_time": 1681405521.0540545,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-3999951.pt"
+                ]
+            },
+            {
+                "steps": 4499951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-4499951.onnx",
+                "reward": -1.0402004427143505,
+                "creation_time": 1681406700.7025259,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-4499951.pt"
+                ]
+            },
+            {
+                "steps": 4999945,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-4999945.onnx",
+                "reward": 0.3676598561198815,
+                "creation_time": 1681407891.4569452,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-4999945.pt"
+                ]
+            },
+            {
+                "steps": 5499951,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-5499951.onnx",
+                "reward": 2.6759356431663037,
+                "creation_time": 1681409098.390517,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-5499951.pt"
+                ]
+            },
+            {
+                "steps": 5999947,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-5999947.onnx",
+                "reward": 0.6881661717044679,
+                "creation_time": 1681410296.538149,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-5999947.pt"
+                ]
+            },
+            {
+                "steps": 6499941,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-6499941.onnx",
+                "reward": 7.147621870316841,
+                "creation_time": 1681411480.977013,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-6499941.pt"
+                ]
+            },
+            {
+                "steps": 6999936,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-6999936.onnx",
+                "reward": 11.068658930063247,
+                "creation_time": 1681412679.8097384,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-6999936.pt"
+                ]
+            },
+            {
+                "steps": 7499937,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-7499937.onnx",
+                "reward": 12.092129707336426,
+                "creation_time": 1681413852.628656,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-7499937.pt"
+                ]
+            },
+            {
+                "steps": 7999959,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-7999959.onnx",
+                "reward": 13.730990706912932,
+                "creation_time": 1681415044.6019344,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-7999959.pt"
+                ]
+            },
+            {
+                "steps": 8499959,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-8499959.onnx",
+                "reward": 12.887575980864073,
+                "creation_time": 1681416238.570103,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-8499959.pt"
+                ]
+            },
+            {
+                "steps": 8999965,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-8999965.onnx",
+                "reward": 16.55399787425995,
+                "creation_time": 1681417420.1139565,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-8999965.pt"
+                ]
+            },
+            {
+                "steps": 9499938,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-9499938.onnx",
+                "reward": 15.96254743197385,
+                "creation_time": 1681418575.715395,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-9499938.pt"
+                ]
+            },
+            {
+                "steps": 9999996,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-9999996.onnx",
+                "reward": 15.016861528158188,
+                "creation_time": 1681419757.774506,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-9999996.pt"
+                ]
+            },
+            {
+                "steps": 10499996,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-10499996.onnx",
+                "reward": 16.69710686802864,
+                "creation_time": 1681420917.5979288,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-10499996.pt"
+                ]
+            },
+            {
+                "steps": 10999990,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-10999990.onnx",
+                "reward": 16.314093318250443,
+                "creation_time": 1681422067.1034756,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-10999990.pt"
+                ]
+            },
+            {
+                "steps": 11499990,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-11499990.onnx",
+                "reward": 15.366952020054063,
+                "creation_time": 1681423227.074433,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-11499990.pt"
+                ]
+            },
+            {
+                "steps": 11999996,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-11999996.onnx",
+                "reward": 16.646153688430786,
+                "creation_time": 1681424383.465742,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-11999996.pt"
+                ]
+            },
+            {
+                "steps": 12499993,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-12499993.onnx",
+                "reward": 16.323336080500955,
+                "creation_time": 1681425545.1867378,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-12499993.pt"
+                ]
+            },
+            {
+                "steps": 12999987,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-12999987.onnx",
+                "reward": 16.589959080402668,
+                "creation_time": 1681426722.2196937,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-12999987.pt"
+                ]
+            },
+            {
+                "steps": 13499984,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-13499984.onnx",
+                "reward": -59.56907313802968,
+                "creation_time": 1681427971.484001,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-13499984.pt"
+                ]
+            },
+            {
+                "steps": 13999949,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-13999949.onnx",
+                "reward": -27.665816413031685,
+                "creation_time": 1681429166.4477687,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-13999949.pt"
+                ]
+            },
+            {
+                "steps": 14499939,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-14499939.onnx",
+                "reward": -23.565261235108245,
+                "creation_time": 1681430383.1461682,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-14499939.pt"
+                ]
+            },
+            {
+                "steps": 14999976,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-14999976.onnx",
+                "reward": -20.56170388747906,
+                "creation_time": 1681431594.997354,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-14999976.pt"
+                ]
+            },
+            {
+                "steps": 15499955,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-15499955.onnx",
+                "reward": -9.654253455725582,
+                "creation_time": 1681432845.9852357,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-15499955.pt"
+                ]
+            },
+            {
+                "steps": 15999948,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-15999948.onnx",
+                "reward": -8.237531847423977,
+                "creation_time": 1681434109.1529922,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-15999948.pt"
+                ]
+            },
+            {
+                "steps": 16499960,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-16499960.onnx",
+                "reward": -7.889997949471345,
+                "creation_time": 1681435332.870979,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-16499960.pt"
+                ]
+            },
+            {
+                "steps": 16999939,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-16999939.onnx",
+                "reward": -73.98671676635742,
+                "creation_time": 1681436565.2687817,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-16999939.pt"
+                ]
+            },
+            {
+                "steps": 17499945,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-17499945.onnx",
+                "reward": -47.7599835395813,
+                "creation_time": 1681437769.8742394,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-17499945.pt"
+                ]
+            },
+            {
+                "steps": 17999945,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-17999945.onnx",
+                "reward": -30.395309802813408,
+                "creation_time": 1681438963.502502,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-17999945.pt"
+                ]
+            },
+            {
+                "steps": 18499939,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-18499939.onnx",
+                "reward": -25.102724977902003,
+                "creation_time": 1681440165.7542129,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-18499939.pt"
+                ]
+            },
+            {
+                "steps": 18999939,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-18999939.onnx",
+                "reward": -21.726901531219482,
+                "creation_time": 1681441363.6563582,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-18999939.pt"
+                ]
+            },
+            {
+                "steps": 19499945,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-19499945.onnx",
+                "reward": -21.700504779815674,
+                "creation_time": 1681442572.7030437,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-19499945.pt"
+                ]
+            },
+            {
+                "steps": 19999992,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-19999992.onnx",
+                "reward": -21.129278564453124,
+                "creation_time": 1681443770.121569,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-19999992.pt"
+                ]
+            },
+            {
+                "steps": 20499992,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-20499992.onnx",
+                "reward": -21.080294973710004,
+                "creation_time": 1681444967.4106667,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-20499992.pt"
+                ]
+            },
+            {
+                "steps": 20999986,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-20999986.onnx",
+                "reward": -20.587934732437134,
+                "creation_time": 1681446164.6190193,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-20999986.pt"
+                ]
+            },
+            {
+                "steps": 21499986,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-21499986.onnx",
+                "reward": -20.880986098087195,
+                "creation_time": 1681447364.3890495,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-21499986.pt"
+                ]
+            },
+            {
+                "steps": 21999986,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-21999986.onnx",
+                "reward": -20.376652036394393,
+                "creation_time": 1681448567.6149223,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-21999986.pt"
+                ]
+            },
+            {
+                "steps": 22499992,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-22499992.onnx",
+                "reward": -21.112313628196716,
+                "creation_time": 1681449758.9111688,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-22499992.pt"
+                ]
+            },
+            {
+                "steps": 22999986,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-22999986.onnx",
+                "reward": -20.47977191872067,
+                "creation_time": 1681450957.1676862,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-22999986.pt"
+                ]
+            },
+            {
+                "steps": 23499980,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-23499980.onnx",
+                "reward": -20.552064781188964,
+                "creation_time": 1681452165.4677696,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-23499980.pt"
+                ]
+            },
+            {
+                "steps": 23999986,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-23999986.onnx",
+                "reward": -160.48807894099843,
+                "creation_time": 1681453364.606268,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-23999986.pt"
+                ]
+            },
+            {
+                "steps": 24396672,
+                "file_path": "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-24396672.onnx",
+                "reward": -127.6273976030021,
+                "creation_time": 1681454307.2540104,
+                "auxillary_file_paths": [
+                    "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-24396672.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 24396672,
+            "file_path": "results/4-no-box-add-reward/SpiderBrain.onnx",
+            "reward": -127.6273976030021,
+            "creation_time": 1681454307.2540104,
+            "auxillary_file_paths": [
+                "results/4-no-box-add-reward/SpiderBrain/SpiderBrain-24396672.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

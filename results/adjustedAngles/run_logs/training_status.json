@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 30999941,
+                "file_path": "results/adjustedAngles/SpiderBrain/SpiderBrain-30999941.onnx",
+                "reward": 1.0510803380182812,
+                "creation_time": 1681312045.0802088,
+                "auxillary_file_paths": [
+                    "results/adjustedAngles/SpiderBrain/SpiderBrain-30999941.pt"
+                ]
+            },
+            {
+                "steps": 31499941,
+                "file_path": "results/adjustedAngles/SpiderBrain/SpiderBrain-31499941.onnx",
+                "reward": 1.05481826310808,
+                "creation_time": 1681313194.5641682,
+                "auxillary_file_paths": [
+                    "results/adjustedAngles/SpiderBrain/SpiderBrain-31499941.pt"
+                ]
+            },
+            {
+                "steps": 31999941,
+                "file_path": "results/adjustedAngles/SpiderBrain/SpiderBrain-31999941.onnx",
+                "reward": 1.0199997614730487,
+                "creation_time": 1681314350.1733227,
+                "auxillary_file_paths": [
+                    "results/adjustedAngles/SpiderBrain/SpiderBrain-31999941.pt"
+                ]
+            },
+            {
+                "steps": 32499941,
+                "file_path": "results/adjustedAngles/SpiderBrain/SpiderBrain-32499941.onnx",
+                "reward": -1.196754911620366,
+                "creation_time": 1681315524.2482522,
+                "auxillary_file_paths": [
+                    "results/adjustedAngles/SpiderBrain/SpiderBrain-32499941.pt"
+                ]
+            },
+            {
+                "steps": 32723005,
+                "file_path": "results/adjustedAngles/SpiderBrain/SpiderBrain-32723005.onnx",
+                "reward": -1.1931822329759598,
+                "creation_time": 1681316044.815755,
+                "auxillary_file_paths": [
+                    "results/adjustedAngles/SpiderBrain/SpiderBrain-32723005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 32723005,
+            "file_path": "results/adjustedAngles/SpiderBrain.onnx",
+            "reward": -1.1931822329759598,
+            "creation_time": 1681316044.815755,
+            "auxillary_file_paths": [
+                "results/adjustedAngles/SpiderBrain/SpiderBrain-32723005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

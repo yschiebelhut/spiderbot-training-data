@@ -1,0 +1,1 @@
+mlagents-learn --env 4-no-box-add-reward/4-no-box-add-reward --run-id 4-no-box-add-reward --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 --resume trainer_new-format.yaml
