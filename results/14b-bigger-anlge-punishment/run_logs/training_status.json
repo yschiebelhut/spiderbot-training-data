@@ -1,0 +1,479 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 499712,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-499712.onnx",
+                "reward": -17.38169604081374,
+                "creation_time": 1682284718.0024467,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-499712.pt"
+                ]
+            },
+            {
+                "steps": 999712,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-999712.onnx",
+                "reward": -13.742643368655237,
+                "creation_time": 1682285815.80555,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-999712.pt"
+                ]
+            },
+            {
+                "steps": 1499712,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-1499712.onnx",
+                "reward": -9.911784172058105,
+                "creation_time": 1682286943.6850095,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-1499712.pt"
+                ]
+            },
+            {
+                "steps": 1999991,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-1999991.onnx",
+                "reward": -12.125400066375732,
+                "creation_time": 1682288046.528354,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-1999991.pt"
+                ]
+            },
+            {
+                "steps": 2499807,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-2499807.onnx",
+                "reward": -10.918496415019035,
+                "creation_time": 1682289155.8382306,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-2499807.pt"
+                ]
+            },
+            {
+                "steps": 2999807,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-2999807.onnx",
+                "reward": -9.151679073061262,
+                "creation_time": 1682290252.720901,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-2999807.pt"
+                ]
+            },
+            {
+                "steps": 3499807,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-3499807.onnx",
+                "reward": -8.6662085496861,
+                "creation_time": 1682291353.5922077,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-3499807.pt"
+                ]
+            },
+            {
+                "steps": 3999598,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-3999598.onnx",
+                "reward": -6.6146631770663795,
+                "creation_time": 1682292465.272031,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-3999598.pt"
+                ]
+            },
+            {
+                "steps": 4499679,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-4499679.onnx",
+                "reward": -8.459861208092082,
+                "creation_time": 1682293582.7150261,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-4499679.pt"
+                ]
+            },
+            {
+                "steps": 4999679,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-4999679.onnx",
+                "reward": -3.3625699568677834,
+                "creation_time": 1682294697.1509256,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-4999679.pt"
+                ]
+            },
+            {
+                "steps": 5499868,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-5499868.onnx",
+                "reward": 4.543983459472656,
+                "creation_time": 1682295815.8260114,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-5499868.pt"
+                ]
+            },
+            {
+                "steps": 5999539,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-5999539.onnx",
+                "reward": 2.2714654728770256,
+                "creation_time": 1682296940.3854494,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-5999539.pt"
+                ]
+            },
+            {
+                "steps": 6499818,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-6499818.onnx",
+                "reward": -0.7686831951141357,
+                "creation_time": 1682298056.8720224,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-6499818.pt"
+                ]
+            },
+            {
+                "steps": 6999793,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-6999793.onnx",
+                "reward": 6.421061778068543,
+                "creation_time": 1682299170.6758811,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-6999793.pt"
+                ]
+            },
+            {
+                "steps": 7499594,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-7499594.onnx",
+                "reward": 4.4259498997738485,
+                "creation_time": 1682300288.7793705,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-7499594.pt"
+                ]
+            },
+            {
+                "steps": 7999872,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-7999872.onnx",
+                "reward": 7.558453023433685,
+                "creation_time": 1682301414.3245702,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-7999872.pt"
+                ]
+            },
+            {
+                "steps": 8499926,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-8499926.onnx",
+                "reward": 5.94403213262558,
+                "creation_time": 1682302529.024809,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-8499926.pt"
+                ]
+            },
+            {
+                "steps": 8999708,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-8999708.onnx",
+                "reward": 8.624268966562608,
+                "creation_time": 1682303640.5319877,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-8999708.pt"
+                ]
+            },
+            {
+                "steps": 9499926,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-9499926.onnx",
+                "reward": 9.577921316027641,
+                "creation_time": 1682304780.3102603,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-9499926.pt"
+                ]
+            },
+            {
+                "steps": 9999520,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-9999520.onnx",
+                "reward": 10.729299545288086,
+                "creation_time": 1682305892.0881045,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-9999520.pt"
+                ]
+            },
+            {
+                "steps": 10499637,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-10499637.onnx",
+                "reward": 7.196723410957738,
+                "creation_time": 1682307014.2876604,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-10499637.pt"
+                ]
+            },
+            {
+                "steps": 10999642,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-10999642.onnx",
+                "reward": 8.440495868523916,
+                "creation_time": 1682308137.1574347,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-10999642.pt"
+                ]
+            },
+            {
+                "steps": 11499940,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-11499940.onnx",
+                "reward": 9.475470066070557,
+                "creation_time": 1682309254.33654,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-11499940.pt"
+                ]
+            },
+            {
+                "steps": 11999604,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-11999604.onnx",
+                "reward": 10.414387822151184,
+                "creation_time": 1682310391.2947779,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-11999604.pt"
+                ]
+            },
+            {
+                "steps": 12499563,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-12499563.onnx",
+                "reward": 11.377867308529941,
+                "creation_time": 1682311522.7066934,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-12499563.pt"
+                ]
+            },
+            {
+                "steps": 12999514,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-12999514.onnx",
+                "reward": 8.79955640104082,
+                "creation_time": 1682312648.666787,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-12999514.pt"
+                ]
+            },
+            {
+                "steps": 13499584,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-13499584.onnx",
+                "reward": 15.732613245646158,
+                "creation_time": 1682313765.754217,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-13499584.pt"
+                ]
+            },
+            {
+                "steps": 13999760,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-13999760.onnx",
+                "reward": 10.372968069712321,
+                "creation_time": 1682314881.5795279,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-13999760.pt"
+                ]
+            },
+            {
+                "steps": 14499781,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-14499781.onnx",
+                "reward": 5.806682678369375,
+                "creation_time": 1682316004.4470017,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-14499781.pt"
+                ]
+            },
+            {
+                "steps": 14999993,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-14999993.onnx",
+                "reward": 13.126070751863367,
+                "creation_time": 1682317117.7482524,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-14999993.pt"
+                ]
+            },
+            {
+                "steps": 15499535,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-15499535.onnx",
+                "reward": 12.5614629518695,
+                "creation_time": 1682318239.37103,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-15499535.pt"
+                ]
+            },
+            {
+                "steps": 15999629,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-15999629.onnx",
+                "reward": 11.420671426332914,
+                "creation_time": 1682319343.4245257,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-15999629.pt"
+                ]
+            },
+            {
+                "steps": 16499612,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-16499612.onnx",
+                "reward": 10.990788745880128,
+                "creation_time": 1682320459.5755775,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-16499612.pt"
+                ]
+            },
+            {
+                "steps": 16999893,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-16999893.onnx",
+                "reward": 12.165417407688341,
+                "creation_time": 1682321583.6003098,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-16999893.pt"
+                ]
+            },
+            {
+                "steps": 17499846,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-17499846.onnx",
+                "reward": 11.325563669204712,
+                "creation_time": 1682322717.1153147,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-17499846.pt"
+                ]
+            },
+            {
+                "steps": 17999807,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-17999807.onnx",
+                "reward": 17.462769803546724,
+                "creation_time": 1682323835.2113757,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-17999807.pt"
+                ]
+            },
+            {
+                "steps": 18499888,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-18499888.onnx",
+                "reward": 10.967153521145091,
+                "creation_time": 1682324948.2999969,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-18499888.pt"
+                ]
+            },
+            {
+                "steps": 18999748,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-18999748.onnx",
+                "reward": 11.646108627319336,
+                "creation_time": 1682326087.6831973,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-18999748.pt"
+                ]
+            },
+            {
+                "steps": 19499814,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-19499814.onnx",
+                "reward": 14.71671912405226,
+                "creation_time": 1682327214.358947,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-19499814.pt"
+                ]
+            },
+            {
+                "steps": 19999842,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-19999842.onnx",
+                "reward": 13.91443951924642,
+                "creation_time": 1682328335.774489,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-19999842.pt"
+                ]
+            },
+            {
+                "steps": 20499504,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-20499504.onnx",
+                "reward": 2.4271833896636963,
+                "creation_time": 1682329448.9775991,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-20499504.pt"
+                ]
+            },
+            {
+                "steps": 20999737,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-20999737.onnx",
+                "reward": 11.656469246920418,
+                "creation_time": 1682330566.0877607,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-20999737.pt"
+                ]
+            },
+            {
+                "steps": 21499950,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-21499950.onnx",
+                "reward": 14.914487430027553,
+                "creation_time": 1682331681.3949006,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-21499950.pt"
+                ]
+            },
+            {
+                "steps": 21999543,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-21999543.onnx",
+                "reward": null,
+                "creation_time": 1682332800.22326,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-21999543.pt"
+                ]
+            },
+            {
+                "steps": 22499526,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-22499526.onnx",
+                "reward": 14.395093849727086,
+                "creation_time": 1682333889.6131706,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-22499526.pt"
+                ]
+            },
+            {
+                "steps": 22999999,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-22999999.onnx",
+                "reward": 13.86244176228841,
+                "creation_time": 1682334981.5521145,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-22999999.pt"
+                ]
+            },
+            {
+                "steps": 23499619,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-23499619.onnx",
+                "reward": 18.40153439839681,
+                "creation_time": 1682336066.5936933,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-23499619.pt"
+                ]
+            },
+            {
+                "steps": 23999978,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-23999978.onnx",
+                "reward": 11.856910593369427,
+                "creation_time": 1682337145.1631672,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-23999978.pt"
+                ]
+            },
+            {
+                "steps": 24499933,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-24499933.onnx",
+                "reward": 13.677260573705038,
+                "creation_time": 1682338276.290951,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-24499933.pt"
+                ]
+            },
+            {
+                "steps": 24999745,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-24999745.onnx",
+                "reward": 7.185076077779134,
+                "creation_time": 1682339384.0048301,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-24999745.pt"
+                ]
+            },
+            {
+                "steps": 25000245,
+                "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-25000245.onnx",
+                "reward": 7.173637866973877,
+                "creation_time": 1682339384.1700954,
+                "auxillary_file_paths": [
+                    "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-25000245.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000245,
+            "file_path": "results/14b-bigger-anlge-punishment/SpiderBrain.onnx",
+            "reward": 7.173637866973877,
+            "creation_time": 1682339384.1700954,
+            "auxillary_file_paths": [
+                "results/14b-bigger-anlge-punishment/SpiderBrain/SpiderBrain-25000245.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
