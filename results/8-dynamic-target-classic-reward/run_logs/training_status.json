@@ -1,0 +1,101 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-499998.onnx",
+                "reward": -56.99927184365013,
+                "creation_time": 1681645495.7879105,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-499998.pt"
+                ]
+            },
+            {
+                "steps": 999985,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-999985.onnx",
+                "reward": -21.77797141075134,
+                "creation_time": 1681646600.100862,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-999985.pt"
+                ]
+            },
+            {
+                "steps": 1499984,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-1499984.onnx",
+                "reward": -19.977794408798218,
+                "creation_time": 1681647719.0787277,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-1499984.pt"
+                ]
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-1999995.onnx",
+                "reward": -22.01234955695069,
+                "creation_time": 1681648868.72928,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-1999995.pt"
+                ]
+            },
+            {
+                "steps": 2499980,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-2499980.onnx",
+                "reward": -19.205595921661896,
+                "creation_time": 1681650024.1324155,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-2499980.pt"
+                ]
+            },
+            {
+                "steps": 2999963,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-2999963.onnx",
+                "reward": -18.822759851232753,
+                "creation_time": 1681651172.788027,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-2999963.pt"
+                ]
+            },
+            {
+                "steps": 3499992,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-3499992.onnx",
+                "reward": -19.32030176598093,
+                "creation_time": 1681652314.2904842,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-3499992.pt"
+                ]
+            },
+            {
+                "steps": 3999997,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-3999997.onnx",
+                "reward": -18.09294267495473,
+                "creation_time": 1681653473.1269298,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-3999997.pt"
+                ]
+            },
+            {
+                "steps": 4348680,
+                "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-4348680.onnx",
+                "reward": -19.313833822144403,
+                "creation_time": 1681654262.3522305,
+                "auxillary_file_paths": [
+                    "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-4348680.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4348680,
+            "file_path": "results/8-dynamic-target-classic-reward/SpiderBrain.onnx",
+            "reward": -19.313833822144403,
+            "creation_time": 1681654262.3522305,
+            "auxillary_file_paths": [
+                "results/8-dynamic-target-classic-reward/SpiderBrain/SpiderBrain-4348680.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

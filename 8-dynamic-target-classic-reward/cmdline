@@ -1,0 +1,2 @@
+mlagents-learn --env 8-dynamic-target-classic-reward/8-dynamic-target-classic-reward.x86_64 --run-id 8-dynamic-target-classic-reward --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
+
