@@ -1,0 +1,2 @@
+mlagents-learn --env 14a-calmed-reward/14a-calmed-reward.x86_64 --run-id 14a-calmed-reward --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 13-adapt-trainer-config/trainer_new-format.yaml
+

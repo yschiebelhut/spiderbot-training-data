@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 13999963,
+                "file_path": "results/14a-calmed-reward/SpiderBrain/SpiderBrain-13999963.onnx",
+                "reward": 50.141884644826256,
+                "creation_time": 1682279769.8532944,
+                "auxillary_file_paths": [
+                    "results/14a-calmed-reward/SpiderBrain/SpiderBrain-13999963.pt"
+                ]
+            },
+            {
+                "steps": 14499683,
+                "file_path": "results/14a-calmed-reward/SpiderBrain/SpiderBrain-14499683.onnx",
+                "reward": 42.307861513561676,
+                "creation_time": 1682280888.5148058,
+                "auxillary_file_paths": [
+                    "results/14a-calmed-reward/SpiderBrain/SpiderBrain-14499683.pt"
+                ]
+            },
+            {
+                "steps": 14999704,
+                "file_path": "results/14a-calmed-reward/SpiderBrain/SpiderBrain-14999704.onnx",
+                "reward": 51.414068244224374,
+                "creation_time": 1682281990.599061,
+                "auxillary_file_paths": [
+                    "results/14a-calmed-reward/SpiderBrain/SpiderBrain-14999704.pt"
+                ]
+            },
+            {
+                "steps": 15499716,
+                "file_path": "results/14a-calmed-reward/SpiderBrain/SpiderBrain-15499716.onnx",
+                "reward": 18.594350746699742,
+                "creation_time": 1682283099.1017563,
+                "auxillary_file_paths": [
+                    "results/14a-calmed-reward/SpiderBrain/SpiderBrain-15499716.pt"
+                ]
+            },
+            {
+                "steps": 15686680,
+                "file_path": "results/14a-calmed-reward/SpiderBrain/SpiderBrain-15686680.onnx",
+                "reward": 50.24892282485962,
+                "creation_time": 1682283520.324798,
+                "auxillary_file_paths": [
+                    "results/14a-calmed-reward/SpiderBrain/SpiderBrain-15686680.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15686680,
+            "file_path": "results/14a-calmed-reward/SpiderBrain.onnx",
+            "reward": 50.24892282485962,
+            "creation_time": 1682283520.324798,
+            "auxillary_file_paths": [
+                "results/14a-calmed-reward/SpiderBrain/SpiderBrain-15686680.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
