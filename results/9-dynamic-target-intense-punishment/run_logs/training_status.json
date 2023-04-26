@@ -1,0 +1,92 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 499967,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-499967.onnx",
+                "reward": -669.9842402140299,
+                "creation_time": 1681655389.5560472,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-499967.pt"
+                ]
+            },
+            {
+                "steps": 999966,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-999966.onnx",
+                "reward": -97.12464078267415,
+                "creation_time": 1681656450.4308803,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-999966.pt"
+                ]
+            },
+            {
+                "steps": 1499972,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-1499972.onnx",
+                "reward": -40.533583760261536,
+                "creation_time": 1681657478.97618,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-1499972.pt"
+                ]
+            },
+            {
+                "steps": 1999966,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-1999966.onnx",
+                "reward": -32.45773804187775,
+                "creation_time": 1681658530.829607,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-1999966.pt"
+                ]
+            },
+            {
+                "steps": 2499966,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-2499966.onnx",
+                "reward": -33.28599352714343,
+                "creation_time": 1681659571.2959247,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-2499966.pt"
+                ]
+            },
+            {
+                "steps": 2999972,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-2999972.onnx",
+                "reward": -28.801106232863205,
+                "creation_time": 1681660595.844244,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-2999972.pt"
+                ]
+            },
+            {
+                "steps": 3499966,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-3499966.onnx",
+                "reward": -28.237549956639608,
+                "creation_time": 1681661641.2562032,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-3499966.pt"
+                ]
+            },
+            {
+                "steps": 3855908,
+                "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-3855908.onnx",
+                "reward": -23.47622971023832,
+                "creation_time": 1681662365.2124372,
+                "auxillary_file_paths": [
+                    "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-3855908.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3855908,
+            "file_path": "results/9-dynamic-target-intense-punishment/SpiderBrain.onnx",
+            "reward": -23.47622971023832,
+            "creation_time": 1681662365.2124372,
+            "auxillary_file_paths": [
+                "results/9-dynamic-target-intense-punishment/SpiderBrain/SpiderBrain-3855908.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
