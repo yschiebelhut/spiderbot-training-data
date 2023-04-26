@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 23499953,
+                "file_path": "results/15-intense-punishment/SpiderBrain/SpiderBrain-23499953.onnx",
+                "reward": -49.009523466035915,
+                "creation_time": 1682136199.3066912,
+                "auxillary_file_paths": [
+                    "results/15-intense-punishment/SpiderBrain/SpiderBrain-23499953.pt"
+                ]
+            },
+            {
+                "steps": 23999934,
+                "file_path": "results/15-intense-punishment/SpiderBrain/SpiderBrain-23999934.onnx",
+                "reward": -49.5234752231174,
+                "creation_time": 1682137323.7473392,
+                "auxillary_file_paths": [
+                    "results/15-intense-punishment/SpiderBrain/SpiderBrain-23999934.pt"
+                ]
+            },
+            {
+                "steps": 24499920,
+                "file_path": "results/15-intense-punishment/SpiderBrain/SpiderBrain-24499920.onnx",
+                "reward": -48.88139466107902,
+                "creation_time": 1682138437.9090958,
+                "auxillary_file_paths": [
+                    "results/15-intense-punishment/SpiderBrain/SpiderBrain-24499920.pt"
+                ]
+            },
+            {
+                "steps": 24999976,
+                "file_path": "results/15-intense-punishment/SpiderBrain/SpiderBrain-24999976.onnx",
+                "reward": -48.585508823394775,
+                "creation_time": 1682139563.4303076,
+                "auxillary_file_paths": [
+                    "results/15-intense-punishment/SpiderBrain/SpiderBrain-24999976.pt"
+                ]
+            },
+            {
+                "steps": 25000226,
+                "file_path": "results/15-intense-punishment/SpiderBrain/SpiderBrain-25000226.onnx",
+                "reward": -48.6349851820204,
+                "creation_time": 1682139563.6623735,
+                "auxillary_file_paths": [
+                    "results/15-intense-punishment/SpiderBrain/SpiderBrain-25000226.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000226,
+            "file_path": "results/15-intense-punishment/SpiderBrain.onnx",
+            "reward": -48.6349851820204,
+            "creation_time": 1682139563.6623735,
+            "auxillary_file_paths": [
+                "results/15-intense-punishment/SpiderBrain/SpiderBrain-25000226.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
