@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 23499788,
+                "file_path": "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-23499788.onnx",
+                "reward": 11.575921556223994,
+                "creation_time": 1681959911.8604722,
+                "auxillary_file_paths": [
+                    "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-23499788.pt"
+                ]
+            },
+            {
+                "steps": 23999788,
+                "file_path": "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-23999788.onnx",
+                "reward": 11.091605736659123,
+                "creation_time": 1681961105.8804157,
+                "auxillary_file_paths": [
+                    "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-23999788.pt"
+                ]
+            },
+            {
+                "steps": 24499788,
+                "file_path": "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-24499788.onnx",
+                "reward": 10.866730587823051,
+                "creation_time": 1681962308.8597176,
+                "auxillary_file_paths": [
+                    "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-24499788.pt"
+                ]
+            },
+            {
+                "steps": 24999788,
+                "file_path": "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-24999788.onnx",
+                "reward": 10.590513292948405,
+                "creation_time": 1681963507.5666943,
+                "auxillary_file_paths": [
+                    "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-24999788.pt"
+                ]
+            },
+            {
+                "steps": 25000038,
+                "file_path": "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-25000038.onnx",
+                "reward": 10.588502993349168,
+                "creation_time": 1681963507.6834528,
+                "auxillary_file_paths": [
+                    "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-25000038.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000038,
+            "file_path": "results/13-adapt-trainer-config/SpiderBrain.onnx",
+            "reward": 10.588502993349168,
+            "creation_time": 1681963507.6834528,
+            "auxillary_file_paths": [
+                "results/13-adapt-trainer-config/SpiderBrain/SpiderBrain-25000038.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

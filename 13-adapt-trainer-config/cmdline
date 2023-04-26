@@ -1,0 +1,2 @@
+mlagents-learn --env 13-adapt-trainer-config/12-add-positions.x86_64 --run-id 13-adapt-trainer-config --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 --resume 13-adapt-trainer-config/trainer_new-format.yaml
+
