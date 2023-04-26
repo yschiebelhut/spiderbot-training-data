@@ -1,0 +1,2 @@
+mlagents-learn --env 4-debug-extended-vector-space/4-debug-extended-vector-space.x86_64 --run-id 4-debug-extended-vector-space --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
+
