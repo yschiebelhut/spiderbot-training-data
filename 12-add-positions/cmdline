@@ -1,0 +1,1 @@
+mlagents-learn --env 12-add-positions/12-add-positions.x86_64 --run-id 12-add-positions --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
