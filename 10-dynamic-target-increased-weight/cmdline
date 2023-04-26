@@ -1,0 +1,1 @@
+mlagents-learn --env 10-dynamic-target-increased-weight/10-dynamic-target-increased-weight.x86_64 --run-id 10-dynamic-target-increased-weight --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
