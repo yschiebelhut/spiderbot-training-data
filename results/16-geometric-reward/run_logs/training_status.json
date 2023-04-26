@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 23499677,
+                "file_path": "results/16-geometric-reward/SpiderBrain/SpiderBrain-23499677.onnx",
+                "reward": 72.64608943859736,
+                "creation_time": 1682234082.112106,
+                "auxillary_file_paths": [
+                    "results/16-geometric-reward/SpiderBrain/SpiderBrain-23499677.pt"
+                ]
+            },
+            {
+                "steps": 23999636,
+                "file_path": "results/16-geometric-reward/SpiderBrain/SpiderBrain-23999636.onnx",
+                "reward": 98.25663120606366,
+                "creation_time": 1682235159.564044,
+                "auxillary_file_paths": [
+                    "results/16-geometric-reward/SpiderBrain/SpiderBrain-23999636.pt"
+                ]
+            },
+            {
+                "steps": 24499746,
+                "file_path": "results/16-geometric-reward/SpiderBrain/SpiderBrain-24499746.onnx",
+                "reward": 28.42916488647461,
+                "creation_time": 1682236243.5782666,
+                "auxillary_file_paths": [
+                    "results/16-geometric-reward/SpiderBrain/SpiderBrain-24499746.pt"
+                ]
+            },
+            {
+                "steps": 24999838,
+                "file_path": "results/16-geometric-reward/SpiderBrain/SpiderBrain-24999838.onnx",
+                "reward": 74.12925762600369,
+                "creation_time": 1682237326.7050803,
+                "auxillary_file_paths": [
+                    "results/16-geometric-reward/SpiderBrain/SpiderBrain-24999838.pt"
+                ]
+            },
+            {
+                "steps": 25000338,
+                "file_path": "results/16-geometric-reward/SpiderBrain/SpiderBrain-25000338.onnx",
+                "reward": 73.04613800048828,
+                "creation_time": 1682237326.834442,
+                "auxillary_file_paths": [
+                    "results/16-geometric-reward/SpiderBrain/SpiderBrain-25000338.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000338,
+            "file_path": "results/16-geometric-reward/SpiderBrain.onnx",
+            "reward": 73.04613800048828,
+            "creation_time": 1682237326.834442,
+            "auxillary_file_paths": [
+                "results/16-geometric-reward/SpiderBrain/SpiderBrain-25000338.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}

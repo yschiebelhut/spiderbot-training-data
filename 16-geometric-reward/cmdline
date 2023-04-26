@@ -1,0 +1,2 @@
+mlagents-learn --env 15-geometric-reward/15-geometric-reward.x86_64 --run-id 16-geometric-reward --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 13-adapt-trainer-config/trainer_new-format.yaml
+
