@@ -1,0 +1,2 @@
+mlagents-learn --env 6-dynamic-target/6-dynamic-target.x86_64 --run-id 6-dynamic-target --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 trainer_new-format.yaml
+
