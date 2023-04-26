@@ -1,0 +1,2 @@
+mlagents-learn --env 14-walk-to-target/14-walk-to-target.x86_64 --run-id 14-walk-to-target --no-graphics --torch-device cuda --num-envs 4 --time-scale 1 13-adapt-trainer-config/trainer_new-format.yaml
+

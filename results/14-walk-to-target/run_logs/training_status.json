@@ -1,0 +1,65 @@
+{
+    "SpiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 23499815,
+                "file_path": "results/14-walk-to-target/SpiderBrain/SpiderBrain-23499815.onnx",
+                "reward": 6.845768201841067,
+                "creation_time": 1682071647.4290187,
+                "auxillary_file_paths": [
+                    "results/14-walk-to-target/SpiderBrain/SpiderBrain-23499815.pt"
+                ]
+            },
+            {
+                "steps": 23999974,
+                "file_path": "results/14-walk-to-target/SpiderBrain/SpiderBrain-23999974.onnx",
+                "reward": 5.571781039237976,
+                "creation_time": 1682072783.1993475,
+                "auxillary_file_paths": [
+                    "results/14-walk-to-target/SpiderBrain/SpiderBrain-23999974.pt"
+                ]
+            },
+            {
+                "steps": 24499926,
+                "file_path": "results/14-walk-to-target/SpiderBrain/SpiderBrain-24499926.onnx",
+                "reward": 6.65885987821615,
+                "creation_time": 1682073914.6766603,
+                "auxillary_file_paths": [
+                    "results/14-walk-to-target/SpiderBrain/SpiderBrain-24499926.pt"
+                ]
+            },
+            {
+                "steps": 24999896,
+                "file_path": "results/14-walk-to-target/SpiderBrain/SpiderBrain-24999896.onnx",
+                "reward": 4.692242622375488,
+                "creation_time": 1682075032.690209,
+                "auxillary_file_paths": [
+                    "results/14-walk-to-target/SpiderBrain/SpiderBrain-24999896.pt"
+                ]
+            },
+            {
+                "steps": 25000146,
+                "file_path": "results/14-walk-to-target/SpiderBrain/SpiderBrain-25000146.onnx",
+                "reward": 5.227420806884766,
+                "creation_time": 1682075032.8067477,
+                "auxillary_file_paths": [
+                    "results/14-walk-to-target/SpiderBrain/SpiderBrain-25000146.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000146,
+            "file_path": "results/14-walk-to-target/SpiderBrain.onnx",
+            "reward": 5.227420806884766,
+            "creation_time": 1682075032.8067477,
+            "auxillary_file_paths": [
+                "results/14-walk-to-target/SpiderBrain/SpiderBrain-25000146.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu102"
+    }
+}
